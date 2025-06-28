@@ -13,7 +13,7 @@ public class Q1 {
         double pi = 3.142;
         double area;
 
-        area = (double) (pi * radius * radius);
+        area = (int) (pi * radius * radius);
         System.out.println(area);
 
     }
